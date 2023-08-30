@@ -1,4 +1,4 @@
-module github.com/lizc2003/hdwallet
+module github.com/mesment/hdwallet
 
 go 1.19
 
